@@ -1,0 +1,2 @@
+# BWZtYFleZf
+本系统是一款基于B/S架构的仓库管理系统，核心功能包括仓库物品管理、客户订单处理及数据分析。采用前后端分离技术，后端整合springboot、springSecurity、MybatisPlius、Redis和websocket，确保数据安全与实时通信；前端运用vue、elementui、echarts、vuex和websocket，提供友好的用户界面和流畅的交互体验。系统旨在提高仓库管理效率，降低运营成本，实现库存优化。
